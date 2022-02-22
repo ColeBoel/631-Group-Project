@@ -1,0 +1,34 @@
+{
+    "name": "CameraSwitch",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "d8d768fb-2670-41d9-9c14-3e3365129031",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "d9a61439-b532-44ec-b5b3-c9d4b358ca52",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a7677b05-ab07-48e4-8019-4c71ade51fb4",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
